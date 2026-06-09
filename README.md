@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Arnold 👋
 
-<!--
-**ArnoldPaturri/ArnoldPaturri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachiller en Ingeniería Mecatrónica.
 
-Here are some ideas to get you started:
+Actualmente me encuentro formándome en análisis de datos, automatización e inteligencia artificial a través de Oracle Next Education (ONE).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa aplicar datos y tecnología para mejorar procesos, automatizar tareas y apoyar la toma de decisiones.
+
+## Tecnologías
+
+* Excel
+* SQL
+* Power BI
+* PostgreSQL
+* n8n
+
+## Actualmente
+
+* Aprendiendo análisis de datos
+* Desarrollando habilidades en automatización
+* Explorando aplicaciones de inteligencia artificial
+
+## Contacto
+
+💼 LinkedIn: [www.linkedin.com/in/arnold-bustinza-puma-320494211](http://www.linkedin.com/in/arnold-bustinza-puma-320494211)
